@@ -44,5 +44,6 @@ Also you can the build version of the Gold Miner using the following ways:
 
 
 # P.S.
-The project was used mainly for my training, but now you can use it as well.
-Have Fun!
+At the moment, there are only 6 levels, and I don't plan to expand. The main reason is that the project was used mainly for my training, but now you can use it as well.
+
+In any case, I will be happy to see your feedback in the comments. Have fun!
